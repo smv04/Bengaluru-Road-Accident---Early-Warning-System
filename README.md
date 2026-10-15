@@ -2,7 +2,7 @@
 
 A neural-network mini project (NNDL) that scores Bengaluru traffic police stations by historical accident hotspot risk and predicts which stations are likely to be among the city's **top-10 accident-prone stations next year**. Results are shown on an interactive map.
 
-> **Author:** Likhith, M.Sc. Statistics, CHRIST (Deemed to be University), Bengaluru
+> **Author:** Sharon M Varghese, M.Sc. Statistics, CHRIST (Deemed to be University), Bengaluru
 > **Course:** Neural Networks and Deep Learning (NNDL)
 
 ---
@@ -23,7 +23,6 @@ A neural-network mini project (NNDL) that scores Bengaluru traffic police statio
 | `master_bengaluru_accidents_2018_2024.csv` | Station-wise yearly accident data (fatal, non-fatal, killed, injured, total) |
 | `Bengaluru_Urban_Traffic_Police_Stations_Map.kml` | Traffic police station locations (coordinates) |
 | `bengaluru_accident_early_warning_map.html` | Final interactive risk map (open in any browser) |
-| `requirements.txt` | Python dependencies |
 
 ## Data
 
@@ -89,9 +88,8 @@ Predicted risk levels: 8 HIGH, 4 MEDIUM, 22 LOW stations.
 ## How to run
 
 ```bash
-git clone https://github.com/LikhithGMuthyalu/Bengaluru-Road-Accident---Early-Warning-System.git
+git clone https://github.com/smv04/Bengaluru-Road-Accident---Early-Warning-System.git
 cd Bengaluru-Road-Accident---Early-Warning-System
-pip install -r requirements.txt
 jupyter notebook Mini_Project_NNDL_Code.ipynb
 ```
 
