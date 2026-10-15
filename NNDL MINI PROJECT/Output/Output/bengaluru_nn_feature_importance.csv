@@ -1,0 +1,59 @@
+Feature,Importance,Std
+Fatal,0.014021164021164139,0.006954200755605794
+Non-Fatal,0.01137566137566146,0.012097209910236712
+Rolling_3Year_Avg,0.008201058201058292,0.005667800340113393
+Station_Electronic City,0.0050264550264550786,0.0011531478686615656
+Accident_Change,0.0026455026455026952,0.007575566700146229
+Fatal_Rate,0.002380952380952406,0.003914986398663729
+Previous_Year_Accidents,0.000529100529100579,0.0049915244084955636
+Previous_Fatal_Rate,0.0005291005291005347,0.0015873015873016038
+Station_Shivajinagar,0.0005291005291005347,0.0015873015873016038
+Rolling_2Year_Avg,0.0005291005291005347,0.0015873015873016038
+Station_Airport,0.00026455026455026733,0.0011531478686615656
+Station_Rajajinagar,0.00026455026455026733,0.0011531478686615656
+Accident_Change_Percent,0.00026455026455026733,0.0011531478686615656
+Station_U.Gate,0.00026455026455026733,0.0011531478686615656
+Station_High Grounds,0.00026455026455026733,0.0011531478686615656
+Previous_Year_Fatal,0.00026455026455026733,0.0011531478686615656
+Year,0.0,0.0
+Station_Banashankari,0.0,0.0
+Station_Chickpet,0.0,0.0
+Station_Chikkajala,0.0,0.0
+Station_Basavanagudi,0.0,0.0
+Previous_NonFatal_Rate,0.0,0.0
+Station_Banasawadi,0.0,0.0
+Station_Adugodi,0.0,0.0
+Station_Ashoknagar,0.0,0.0
+Station_B.Pura,0.0,0.0
+Station_S.S.Nagar,0.0,0.0
+Station_Madivala,0.0,0.0
+Station_Cubbon Park,0.0,0.0
+Station_City Market,0.0,0.0
+Station_Chamarajapet,0.0,0.0
+Station_HSR Layout,0.0,0.0
+Station_F.Town,0.0,0.0
+Station_Devanahalli,0.0,0.0
+Station_K.Swamy Lyt.,0.0,0.0
+Station_Jayanagar,0.0,0.0
+Station_K G Halli,0.0,0.0
+Station_K.R.Puram,0.0,0.0
+Station_Kengeri,0.0,0.0
+Station_HuliMavu,0.0,0.0
+Station_Indiranagar,0.0,0.0
+Station_Jalahalli,0.0,0.0
+Station_Whitefield,0.0,0.0
+Station_Ulsoor,0.0,0.0
+Station_Kamakshipalya,0.0,0.0
+Station_Magadi Road,0.0,0.0
+Station_Peenya,0.0,0.0
+Station_Mico Layout,0.0,0.0
+Station_RT Nagar,0.0,0.0
+Station_Malleshwaram,0.0,0.0
+Station_Y.Pura,0.0,0.0
+Station_Wilsongarden,0.0,0.0
+Station_Upparpet,0.0,0.0
+Station_Vijayanagar,0.0,0.0
+Station_Yelahanka,0.0,0.0
+Station_Hebbal,-0.00026455026455026175,0.0011531478686615418
+Total,-0.0007936507936507798,0.0025236486809971977
+Previous_Year_NonFatal,-0.002645502645502612,0.0031302009434389317

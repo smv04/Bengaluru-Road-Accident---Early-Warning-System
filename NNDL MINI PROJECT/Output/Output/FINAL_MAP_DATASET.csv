@@ -1,0 +1,29 @@
+Station_Coordinates,Station_Key,Latitude,Longitude,Station_Prediction,Predicted_Risk_Percent,Risk_Level,Total,Fatal,Non-Fatal,Fatal_Rate,Accident_Change_Percent,Rolling_2Year_Avg,Risk_Indicators
+Adugodi,adugodi,12.9415222221275,77.608588888716,Adugodi,4.0890617,LOW,63,10,53,0.1587301587301587,50.0,30.5,['Strong increase in accidents']
+Ashoknagar,ashoknagar,12.9716333327417,77.6103305562667,Ashoknagar,2.6503558,LOW,38,6,32,0.1578947368421052,8.571428571428571,38.5,['Historical accident pattern indicates elevated risk']
+Banasawadi,banasawadi,13.0195027775533,77.6402194435504,Banasawadi,55.18534,MEDIUM,91,14,77,0.1538461538461538,-21.551724137931032,107.5,['High recent accident average']
+Electronic City,electronic city,12.8391916668387,77.6617833330928,Electronic City,97.37021,HIGH,196,38,158,0.1938775510204081,41.007194244604314,134.0,"['High number of fatal crashes', 'High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average']"
+High Grounds,high grounds,12.9847111107347,77.5830472220116,High Grounds,3.227089,LOW,56,6,50,0.1071428571428571,14.285714285714285,43.5,['Historical accident pattern indicates elevated risk']
+Madivala,madivala,12.9209916672212,77.6207250004286,Madivala,7.3885603,LOW,73,14,59,0.1917808219178082,62.22222222222222,49.5,['Strong increase in accidents']
+Mico Layout,mico layout,12.9132777784321,77.6000611111641,Mico Layout,8.547152,LOW,88,14,74,0.1590909090909091,66.0377358490566,61.5,['Strong increase in accidents']
+Shivajinagar,shivajinagar,12.9879194436417,77.6034222217947,Shivajinagar,1.2511005,LOW,27,6,21,0.2222222222222222,8.0,18.0,['High fatal-crash rate']
+Whitefield,whitefield,12.9942472220074,77.7571611107818,Whitefield,97.63733,HIGH,223,43,180,0.1928251121076233,34.33734939759036,128.5,"['High number of fatal crashes', 'High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average', 'High fatal-crash history']"
+Wilsongarden,wilsongarden,12.9501435008387,77.5956167185657,Wilsongarden,5.3460145,LOW,65,6,59,0.0923076923076923,20.37037037037037,56.0,['Strong increase in accidents']
+Chikkajala,chikkajala,13.1723696635458,77.6335682558611,Chikkajala,96.40766,HIGH,137,36,101,0.2627737226277372,-21.26436781609195,181.5,"['High number of fatal crashes', 'High non-fatal crash frequency', 'High recent accident average', 'High fatal-crash rate', 'High fatal-crash history']"
+Hebbal,hebbal,13.0424089995835,77.5889760000564,Hebbal,83.78957,HIGH,144,24,120,0.1666666666666666,42.57425742574257,108.0,"['High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average']"
+Yelahanka,yelahanka,13.0949366661803,77.5940811109578,Yelahanka,99.471375,HIGH,236,58,178,0.2457627118644068,15.686274509803921,188.0,"['High number of fatal crashes', 'High non-fatal crash frequency', 'High recent accident average', 'High fatal-crash rate', 'High fatal-crash history']"
+Malleshwaram,malleshwaram,12.9966521669095,77.5696064323857,Malleshwaram,7.9550767,LOW,99,18,81,0.1818181818181818,76.78571428571429,46.0,['Strong increase in accidents']
+Peenya,peenya,13.0360555191998,77.5211641802431,Peenya,97.029205,HIGH,192,32,160,0.1666666666666666,7.865168539325842,151.5,"['High number of fatal crashes', 'High non-fatal crash frequency', 'High recent accident average', 'High fatal-crash history']"
+Vijayanagar,vijayanagar,12.9676958598672,77.5400378966948,Vijayanagar,29.647985,LOW,79,16,63,0.2025316455696202,-5.952380952380952,89.0,['High fatal-crash rate']
+Upparpet,upparpet,12.9745057476114,77.5750017556543,Upparpet,2.0960147,LOW,29,9,20,0.3103448275862069,7.4074074074074066,24.0,['High fatal-crash rate']
+City Market,city market,12.9707580957203,77.5736625414289,City Market,1.1503475,LOW,32,9,23,0.28125,77.77777777777779,12.5,"['Strong increase in accidents', 'High fatal-crash rate']"
+Magadi Road,magadi road,12.9746540000128,77.5510560002498,Magadi Road,1.002796,LOW,50,7,43,0.14,150.0,24.0,['Strong increase in accidents']
+Jayanagar,jayanagar,12.9285800003268,77.5813900000882,Jayanagar,18.116396,LOW,90,13,77,0.1444444444444444,-3.225806451612903,76.5,['Historical accident pattern indicates elevated risk']
+Basavanagudi,basavanagudi,12.9420741309031,77.5742712536436,Basavanagudi,11.586228,LOW,102,3,99,0.0294117647058823,20.0,66.5,['Strong increase in accidents']
+Jalahalli,jalahalli,13.0486969233808,77.5494851412181,Jalahalli,58.91298,MEDIUM,102,28,74,0.2745098039215686,27.500000000000004,85.0,"['Strong increase in accidents', 'High fatal-crash rate']"
+Rajajinagar,rajajinagar,12.9945588996388,77.5542211644862,Rajajinagar,48.5567,MEDIUM,102,16,86,0.1568627450980392,0.9900990099009901,83.5,['Historical accident pattern indicates elevated risk']
+Kamakshipalya,kamakshipalya,12.9821666670146,77.5327008333068,Kamakshipalya,99.16425,HIGH,241,40,201,0.1659751037344398,20.5,178.5,"['High number of fatal crashes', 'High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average', 'High fatal-crash history']"
+Kengeri,kengeri,12.9105461664563,77.4815072286419,Kengeri,98.623535,HIGH,279,58,221,0.2078853046594982,130.57851239669424,114.0,"['High number of fatal crashes', 'High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average', 'High fatal-crash rate', 'High fatal-crash history']"
+Banashankari,banashankari,12.9289878325586,77.5677911256067,Banashankari,17.027174,LOW,90,15,75,0.1666666666666666,34.32835820895522,68.5,['Strong increase in accidents']
+Chickpet,chickpet,12.9609817288076,77.5681528496062,Chickpet,5.233932,LOW,46,9,37,0.1956521739130435,15.0,35.0,['Historical accident pattern indicates elevated risk']
+HSR Layout,hsr layout,12.9219612532365,77.6616669484753,HSR Layout,17.319538,LOW,56,16,40,0.2857142857142857,-12.5,60.0,['High fatal-crash rate']
