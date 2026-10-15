@@ -1,0 +1,11 @@
+Rank,Station,Predicted_Risk_Percent,Risk_Level,Total,Fatal,Non-Fatal,Fatal_Rate,Accident_Change_Percent,Rolling_2Year_Avg,Risk_Indicators
+1,Yelahanka,99.471375,HIGH,236,58,178,0.2457627118644068,15.686274509803921,188.0,"['High number of fatal crashes', 'High non-fatal crash frequency', 'High recent accident average', 'High fatal-crash rate', 'High fatal-crash history']"
+2,Kamakshipalya,99.16425,HIGH,241,40,201,0.1659751037344398,20.5,178.5,"['High number of fatal crashes', 'High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average', 'High fatal-crash history']"
+3,Kengeri,98.623535,HIGH,279,58,221,0.2078853046594982,130.57851239669424,114.0,"['High number of fatal crashes', 'High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average', 'High fatal-crash rate', 'High fatal-crash history']"
+4,Whitefield,97.63733,HIGH,223,43,180,0.1928251121076233,34.33734939759036,128.5,"['High number of fatal crashes', 'High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average', 'High fatal-crash history']"
+5,Electronic City,97.37021,HIGH,196,38,158,0.1938775510204081,41.007194244604314,134.0,"['High number of fatal crashes', 'High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average']"
+6,Peenya,97.029205,HIGH,192,32,160,0.1666666666666666,7.865168539325842,151.5,"['High number of fatal crashes', 'High non-fatal crash frequency', 'High recent accident average', 'High fatal-crash history']"
+7,Chikkajala,96.40766,HIGH,137,36,101,0.2627737226277372,-21.26436781609195,181.5,"['High number of fatal crashes', 'High non-fatal crash frequency', 'High recent accident average', 'High fatal-crash rate', 'High fatal-crash history']"
+8,Hebbal,83.78957,HIGH,144,24,120,0.1666666666666666,42.57425742574257,108.0,"['High non-fatal crash frequency', 'Strong increase in accidents', 'High recent accident average']"
+9,Jalahalli,58.91298,MEDIUM,102,28,74,0.2745098039215686,27.500000000000004,85.0,"['Strong increase in accidents', 'High fatal-crash rate']"
+10,Banasawadi,55.18534,MEDIUM,91,14,77,0.1538461538461538,-21.551724137931032,107.5,['High recent accident average']
